@@ -10,5 +10,5 @@ This is a simple YouTube video downloader written in C, using `yt-dlp` for video
   - X (formerly Twitter): [https://www.x.com/7etsuo](https://www.x.com/7etsuo)
   - Discord: [https://www.discord.gg/c-asm](https://www.discord.gg/c-asm)
 
-I learned a lot from an article Tetsuo published.
+
 
