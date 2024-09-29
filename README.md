@@ -4,6 +4,7 @@
 This is a simple YouTube video downloader written in C, using `yt-dlp` for video downloading capabilities. The downloader parses the video URL, handles user input, and interfaces with `yt-dlp` to fetch the video. It is designed for simplicity, efficiency, and learning purposes.
 
 ## Build Project
+ - sudo ./build.sh
  - make all
 
 
